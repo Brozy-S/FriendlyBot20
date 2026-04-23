@@ -1,0 +1,34 @@
+⭐ FRIENDLYBOT OFFICIAL COMMANDS ⭐
+
+--- ⚽ MATCH & LINEUP MANAGEMENT ---
+!friendly /friendly         - Start a standard lineup vote for players to join.
+!leaguematch /leaguematch      - Schedule a professional league match with an opponent, link, and time (Dropdown selection included for timezones).
+!lineup /lineup           - (Admin/Staff) Generate the standard interactive lineup board.
+!managerlineup /managerlineup    - (Admin/Staff) Open the GUI editor to draft players interactively.
+!lineupimage /lineupimage      - Generate a high-quality visual representation of the current starting lineup.
+!sendlink /sendlink         - Send a link publicly in the current channel as `Link : [link]`.
+
+--- 📈 COMPETITION & STATS ---
+!top /top              - 🏆 Show the Top 10 most active players in the server.
+!profile /profile          - 🎴 Generate a custom profile card showing your Matches, Goals, and MVPs.
+!profileimage /profileimage     - 🎨 Generate a high-quality visual profile image card.
+!motm /motm              - 🌟 (Admin/Staff) Grant the "Man of the Match" award to a player.
+!record /record           - 📊 View the server's global Win/Loss/Draw record.
+!win /win              - (Admin/Staff) Record a victory. (Auto-records matches for everyone in lineup!)
+!loss /loss             - (Admin/Staff) Record a defeat. (Auto-records matches for everyone in lineup!)
+!draw /draw             - (Admin/Staff) Record a draw. (Auto-records matches for everyone in lineup!)
+
+--- ⚙️ SYSTEM & STAFF SETUP ---
+!setup /setup            - (Admin Only) Opens the interactive settings dropdown panel (Configure Auto Friendly, Cloud Backups, etc).
+!addrole /addrole          - (Admin Only) Add a role to the bot staff whitelist.
+!removerole /removerole       - (Admin Only) Remove a role from the bot staff whitelist.
+!giverole /giverole         - (Admin Only) Give a role to every member who already has the required roles.
+!friendlybotsettings /friendlybotsettings - View bot status and permitted roles.
+!sync /sync             - (Admin Only) Synchronize slash commands.
+!sync_cmds /sync_cmds        - Alias for /sync.
+!reboot /reboot           - (Owner Only) Restart the bot.
+!ping /ping             - Check bot latency.
+!uptime /uptime           - Show how long the bot has been online.
+
+⭐▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⭐
+Tip: All commands listed here completely support Discord Slash Commands (/) due to the Bridge Network upgrade!

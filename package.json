@@ -1,0 +1,17 @@
+{
+  "name": "friendlybot-node",
+  "version": "1.0.0",
+  "description": "FriendlyBot ported to Node.js for maximum performance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.97",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "node-fetch": "^2.7.0",
+    "undici": "^6.13.0"
+  }
+}

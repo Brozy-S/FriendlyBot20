@@ -1,0 +1,9 @@
+node_modules
+.git
+.cursor
+data
+sessions.json
+*.log
+.env
+.kilocode
+scratch
